@@ -14,7 +14,7 @@ This project explores employee attrition patterns using the IBM HR Analytics dat
 
 ## Files Included
 - IBM_HR_Attrition_Analysis.sql : SQL queries used for the analysis
-- 
+ 
 
 ##  Summary
 This project helps identify factors contributing to employee turnover and provides insights for HR decision-making.
